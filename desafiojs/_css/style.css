@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+html    {
+    
+}
+
+body    {
+    height: 100%;
+    text-align: center;
+    background: #ffa37ef6;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    margin: 0 auto;
+    width: 940px;
+}
+
+table#box {
+    padding: 80px;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+
+table#box td.resultado {
+    padding: 80px;
+    border: 5px solid #606060;
+    border-spacing: 0px;
+    background-color: white;
+    border-radius: 20px;
+   
+}
+
+table#box h1 {
+    font-size: 50pt;
+}
+    
+table#box h3 {
+    font-size: 30pt;
+}
+    
